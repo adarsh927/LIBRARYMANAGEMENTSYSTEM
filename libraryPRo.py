@@ -425,9 +425,6 @@ while True:
         print("")
         print("                             Developed By:-                             ")
         print("                                           ADARSH NAYAK                               ")
-        print("                                           ADVAIT KALE                                ")
-        print("                                           GOVIND NAIR                                ")
-        print("                                           HARSH MHATRE                               ")
         break
     
 
